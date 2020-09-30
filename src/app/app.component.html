@@ -1,0 +1,24 @@
+<div class="house rubberBand" (click)="Inicio()">
+    <i class="fas fa-house-user"></i>
+</div>
+<section class="jumbotron text-center header">
+    <div class="container">
+        <h1 class="jumbotron-heading text-uppercase">Registro de usuários</h1>
+        <p class="lead text-muted"> </p>
+
+    </div>
+</section>
+<section class="text-center pb-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-12">
+                <button (click)="Listar()" type="button" class="btn listar btn-lg btn-block shadow pulse">Listar</button>
+            </div>
+            <div class="col-lg-6 col-12">
+                <button (click)="Adicionar()" type="button" class="btn adicionar btn-lg btn-block shadow pulse">Adicionar</button>
+            </div>
+        </div>
+    </div>
+</section>
+
+<router-outlet></router-outlet>

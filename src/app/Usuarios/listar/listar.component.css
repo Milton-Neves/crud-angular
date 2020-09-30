@@ -1,0 +1,13 @@
+.card-header {
+    background-color: #ff005e;
+    color: white;
+}
+
+i {
+    color: #5c1da7;
+}
+
+i:hover {
+    transition: .6s;
+    color: #ff005e;
+}
