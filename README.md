@@ -1,15 +1,15 @@
 # > Registro de usuários
 
 <p align="center">
-<img src="https://github.com/Milton-Neves/-registro-de-usuarios/blob/master/src/assets/1.png"/>
+<img src="https://github.com/Milton-Neves/crud-angular/blob/master/src/assets/1.png"/>
 </p>
 
 <p align="center">
-<img src="https://github.com/Milton-Neves/-registro-de-usuarios/blob/master/src/assets/2.png"/>
+<img src="https://github.com/Milton-Neves/crud-angular/blob/master/src/assets/2.png"/>
 </p>
 
 <p align="center">
-<img src="https://github.com/Milton-Neves/-registro-de-usuarios/blob/master/src/assets/3.png"/>
+<img src="https://github.com/Milton-Neves/crud-angular/blob/master/src/assets/3.png"/>
 </p>
 
 ## Development server
